@@ -151,7 +151,7 @@ D) Error
  console.log(inventarioSinTrampas);      
      inventarioSinTrampas.push("super estrella");
  console.log(inventarioSinTrampas);
-  let inventarioEnMayusculas = 
+ // let inventarioEnMayusculas = 
   // Pregunta 15:
   // Usando el mismo arreglo de inventario anterior (el original, no los modificados). 
   // Usa un bucle for o for...of para recorrer el inventario e imprime mensajes personalizados para cada objeto
